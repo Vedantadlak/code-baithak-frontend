@@ -91,12 +91,7 @@ function Home() {
             </div>
           </div>
 
-          <footer className='mt-16 shadow px-3 text-sm md:text-base md:px-9 py-3 rounded-md backdrop-filter backdrop-blur-md bg-emerald-900/30'>
-            <h4 className='text-sky-500' title="connect with me on twitter(x.com)">
-              Developed with <span className="animate-pulse">passion</span> by
-              <Link to='https://x.com/AnmolDotX' className="text-orange-400 font-bold tracking-widest hover:text-orange-500"> Vedant & Akshat </Link>
-            </h4>
-          </footer>
+         
         </div>
       </div>
     </>
